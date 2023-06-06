@@ -1,0 +1,10 @@
+{
+    "Name": "HatMouseRepaired",
+    "Author": "gmPoirier",
+    "Version": "0.1.0",
+    "Description": "<One or two sentences about the mod>",
+    "UniqueID": "gmPoirier.HatMouseRepaired",
+    "EntryDll": "HatMouseRepaired.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": []
+  }
